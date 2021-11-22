@@ -1,6 +1,5 @@
 # spring-boot-swagger-ui-basic-auth
 
-[![keep_growing logo](readme-images/logo_250x60.png)](https://keepgrowing.in/)
 
 ## About this project
 
